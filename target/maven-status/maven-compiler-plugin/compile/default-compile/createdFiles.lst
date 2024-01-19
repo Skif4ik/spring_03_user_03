@@ -1,4 +1,5 @@
 by\itclass\model\dao\UserDaoImpl.class
+by\itclass\model\entities\Address.class
 by\itclass\constants\AppConst.class
 by\itclass\configs\AppConfig.class
 by\itclass\model\service\UserServiceImpl.class
